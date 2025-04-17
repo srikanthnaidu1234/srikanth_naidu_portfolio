@@ -473,13 +473,6 @@ with tabs[3]:
             "image": "https://via.placeholder.com/300x200?text=Robot+Navigation"
         },
         {
-            "title": "Mercedes Data Pipeline",
-            "description": "Scalable data ingestion and processing pipeline in Azure Data Factory handling 10TB+ dataset for automobile analytics.",
-            "technologies": ["Azure Data Factory", "PySpark", "Databricks", "Data Lake"],
-            "category": "Data Engineering",
-            "image": "https://via.placeholder.com/300x200?text=Data+Pipeline"
-        },
-        {
             "title": "Automated API Testing Framework",
             "description": "Real-time API monitoring system with automated testing capabilities for healthcare data integration.",
             "technologies": ["API Testing", "CI/CD", "Jenkins", "Python"],
